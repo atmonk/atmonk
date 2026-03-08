@@ -1,4 +1,7 @@
-🛠️ currently building the best dang Dutch Blitz scorekeeper app to ever exist
+### Hey, I'm Adam
+- 📱 Mobile developer
+- 👨🏻‍💻 React Native + Expo + Typescript
+- 🛠️ Current app: Lumelist
 
 <!--
 **atmonk/atmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
